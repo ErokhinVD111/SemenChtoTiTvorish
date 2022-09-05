@@ -1,0 +1,1 @@
+add_library(library ${lib_BUILD_DIR})
